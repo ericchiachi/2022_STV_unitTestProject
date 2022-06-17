@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.davidmoten.geo.Base32Test" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-04-11T14:40:57" hostname="lab1321deMacBook-Air.local" time="0.033">
+  <properties/>
+  <testcase name="padLeftWithZerosToLength" classname="com.github.davidmoten.geo.Base32Test" time="0.011"/>
+  <testcase name="encodeBase32_withoutParameterLength" classname="com.github.davidmoten.geo.Base32Test" time="0.001"/>
+  <testcase name="encodeBase32_withParameterLength" classname="com.github.davidmoten.geo.Base32Test" time="0.001"/>
+  <testcase name="getCharIndex" classname="com.github.davidmoten.geo.Base32Test" time="0.01"/>
+  <testcase name="decodeBase32" classname="com.github.davidmoten.geo.Base32Test" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

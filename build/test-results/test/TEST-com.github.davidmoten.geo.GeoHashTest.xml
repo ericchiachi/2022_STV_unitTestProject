@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.davidmoten.geo.GeoHashTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-04-11T14:40:57" hostname="lab1321deMacBook-Air.local" time="0.102">
+  <properties/>
+  <testcase name="testCoverBoundingBox_withoutMaxHashes" classname="com.github.davidmoten.geo.GeoHashTest" time="0.057"/>
+  <testcase name="testDecodeHash" classname="com.github.davidmoten.geo.GeoHashTest" time="0.005"/>
+  <testcase name="testEncodeHash_latitudeAndLongitude_withoutLength" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="testRight" classname="com.github.davidmoten.geo.GeoHashTest" time="0.005"/>
+  <testcase name="testNeighbours" classname="com.github.davidmoten.geo.GeoHashTest" time="0.003"/>
+  <testcase name="testAdjacentHash_withSteps" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <testcase name="testAdjacentHash_withoutSteps" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <testcase name="testFromLongtoString" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="widthDegrees" classname="com.github.davidmoten.geo.GeoHashTest" time="0.003"/>
+  <testcase name="heightDegrees" classname="com.github.davidmoten.geo.GeoHashTest" time="0.004"/>
+  <testcase name="testEncodeHashToLong" classname="com.github.davidmoten.geo.GeoHashTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
